@@ -1,4 +1,4 @@
-# 📦 Controle de Estoque – Sprint de Programação Dinâmica (DASA)
+# 📦 Controle de Estoque – Sprint de Programação Dinâmica (DASA) Desafio 1
 
 ---
 
