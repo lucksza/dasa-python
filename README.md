@@ -1,5 +1,11 @@
 # 📦 Controle de Estoque – Sprint de Programação Dinâmica (DASA)
 
+---
+
+## 👥 Equipe
+- **RAs**: 554608 (Lucca Borges), 557599 (Ruan Vieira), 558148 (Rodrigo Carnevale)
+
+---
 ## 📖 Visão Geral
 Este projeto implementa, em Python, um **sistema de controle de estoque** usando dados de células de carga (ESP32 + MQTT).  
 Você encontrará neste repositório:
@@ -128,10 +134,7 @@ class Estoque:
 | Ordenação inicial de chaves    | O(n log n)        |
 | Funções recursivas + memoize   | Exponencial → O(n)|
 
----
 
-## 👥 Equipe
-- **RAs**: 554608 (Lucca Borges), 557599 (Ruan Vieira), 558148 (Rodrigo Carnevale)
 
 ---
 
