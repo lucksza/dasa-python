@@ -3,7 +3,7 @@
 ---
 
 ## 👥 Equipe
-- 
+
 - 554608 (Lucca Borges),
 - 557599 (Ruan Vieira),
 - 558148 (Rodrigo Carnevale)
