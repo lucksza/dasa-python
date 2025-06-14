@@ -3,7 +3,10 @@
 ---
 
 ## 👥 Equipe
-- **RAs**: 554608 (Lucca Borges), 557599 (Ruan Vieira), 558148 (Rodrigo Carnevale)
+- 
+- 554608 (Lucca Borges),
+- 557599 (Ruan Vieira),
+- 558148 (Rodrigo Carnevale)
 
 ---
 ## 📖 Visão Geral
