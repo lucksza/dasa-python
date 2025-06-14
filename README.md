@@ -122,7 +122,7 @@ class Estoque:
 ## 📄 Relatório
 Veja o relatório acadêmico em PDF em:  
 ```
-docs/relatorio.pdf
+relatorio.pdf
 ```
 
 ---
