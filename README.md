@@ -12,7 +12,7 @@
 ## 📖 Visão Geral
 Este projeto implementa, em Python, um **sistema de controle de estoque** usando dados de células de carga (ESP32 + MQTT).  
 Você encontrará neste repositório:
-- Código-fonte completo em `src/`
+- Código-fonte completo em `dasa.ipynb`
 - Relatório acadêmico em `docs/relatorio.pdf`
 - Instruções de instalação e uso (neste README)
 
@@ -51,28 +51,6 @@ Você encontrará neste repositório:
 
 ---
 
-## 🚀 Como Rodar
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/dasa-controle-estoque.git
-   cd dasa-controle-estoque
-   ```
-2. Crie e ative um virtualenv:  
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate    # Linux/macOS
-   .\.venv\Scripts\activate     # Windows
-   ```
-3. Instale as dependências:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o script principal:  
-   ```bash
-   python src/controle_estoque.py --input data/exemplo_estoque.csv
-   ```
-
----
 
 ## ⚙️ Explicação das Funções e Classes
 
